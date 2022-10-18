@@ -6,3 +6,5 @@ def saludar ():
     hola ()
 
     puto = "leo"
+    
+    buenas= "Hola, que tal"
